@@ -1,5 +1,9 @@
-?<php>
+<!DOCTYPE html>
+<html>
+<body>
 
-echo "Alhamdulillah"
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
-<php>
+</body>
+</html>
